@@ -88,7 +88,7 @@
 ...
   
 <!-- Define the SonarQube global properties (the most usual way is to pass these properties via the command line) -->
-<property name="sonar.host.url" value="http://localhost:9000" />
+<property name="sonar.host.url" value="http://100.68.165.71:9000" />
  
 ...
   
