@@ -111,3 +111,4 @@
     <!-- Execute SonarScanner for Ant Analysis -->
     <sonar:sonar />
 </target>
+</project>
